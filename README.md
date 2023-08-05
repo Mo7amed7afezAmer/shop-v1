@@ -1,1 +1,1 @@
-# shop-v1
+# full online store (first version)
