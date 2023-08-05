@@ -1,9 +1,9 @@
 function admin(req, res, next) {
 
-    if (req.user.roles[0].specialist.indexOf("admin") === -1) return res.status(403).send({
-        ok: false,
-        error: "Access denied."
-    });
+    // if (req.user.roles[0].specialist.indexOf("admin") === -1) return res.status(403).send({
+    //     ok: false,
+    //     error: "Access denied."
+    // });
     req.adminId = req.user.roles[0].id;
     console.log(req.user.roles[0]);
     next();
