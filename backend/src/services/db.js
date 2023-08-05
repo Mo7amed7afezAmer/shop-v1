@@ -9,7 +9,7 @@ function createPool() {
         database: "shop_v1",
         connectionLimit: 10,
         waitForConnections: true,
-        queueLimit: 0
+        queueLimit: 0,
       });
   
       const promisePool = pool.promise();
