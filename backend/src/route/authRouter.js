@@ -9,7 +9,7 @@ const router = express.Router();
 router.post("/", async function (req, res, next) {
     try {
         // res.json(await crudOperations.isLogin(req.body.name, req.body.password));
-        req.authData = await crudOperations.isLogin("customer", req.body.name, req.body.password);
+        req.authData = await crudOperations.isLogin("admin", req.body.name, req.body.password);
     } catch (err) {
         console.error(`Error while update user `, err.message);
     }
@@ -17,10 +17,10 @@ router.post("/", async function (req, res, next) {
 });
 
 // login patient router
-router.post("/patient-login", async function (req, res, next) {
+router.post("/user", async function (req, res, next) {
     try {
         // res.json(await crudOperations.isLogin(req.body.name, req.body.password));
-        req.authData = await crudOperations.isLogin("patient", req.body.name, req.body.password);
+        req.authData = await crudOperations.isLogin("customer", req.body.name, req.body.password);
     } catch (err) {
         console.error(`Error while update user `, err.message);
     }
