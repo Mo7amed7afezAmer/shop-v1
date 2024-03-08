@@ -1,0 +1,418 @@
+[
+    {
+        "id": 2,
+        "product_name": "Universal Headphones Case in Black",
+        "cat": "Headphone Cases",
+        "description": "Brand new and high quality\nMade of supreme quality, durable EVA crush resistant, anti-shock material.\nSoft inner cloth lining, one mesh pocket inside.\nCompact and functional hard case keeps items safe and extremely portable.\nForce Touch trackpad (13-inch model)",
+        "price": "$159.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/headphonecase-300x300.png"
+    },
+    {
+        "id": 3,
+        "product_name": "Headphones USB Wires",
+        "cat": "Headphone Accessories",
+        "description": "High-fidelity stereo music and clear speech\n100% Stable and Comfortable when exercising, running and other outdoor sports\nUp to 6 hours music play\n7 hours talking time\nForce Touch trackpad (13-inch model)",
+        "price": "$50.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone-300x300.png"
+    },
+    {
+        "id": 4,
+        "product_name": "Ultra Wireless S50 Headphones S50 with Bluetooth",
+        "cat": "Headphones",
+        "description": "4.5 inch HD Touch Screen (1280 x 720)\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front and 28 megapixel CMOS rear camera\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.\nSKU: FW511948218",
+        "price": "$350.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png"
+    },
+    {
+        "id": 5,
+        "product_name": "Wireless Audio System Multiroom 360",
+        "cat": "Audio Speakers",
+        "description": "360 Omnidirectional Sound\nEasy Intuitive Control\nMultiroom App",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png"
+    },
+    {
+        "id": 6,
+        "product_name": "Tablet White EliteBook Revolve 810 G2",
+        "cat": "Laptops",
+        "description": "Screen Size: 11.6″\n Processor Type: Core i5\n Processor Speed: 1.90 GHz\nStandard Memory: 4 GB\n Operating System: Windows 8.1 Pro",
+        "price": "$1,300.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/Ultrabooks-300x300.png"
+    },
+    {
+        "id": 7,
+        "product_name": "Purple Solo 2 Wireless",
+        "cat": "Headphones",
+        "description": "Fine-tuned acoustics for clarity, breadth and balance\nStreamlined design for a custom-fit\n Durable and foldable so you can take them on-the-go\nake calls and control music with RemoteTalk cable",
+        "price": "$248.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/heade1-300x300.png"
+    },
+    {
+        "id": 8,
+        "product_name": "Notebook Widescreen Y700-17 GF790",
+        "cat": "Laptops",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n3GB Ram",
+        "price": "$1,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+    },
+    {
+        "id": 9,
+        "product_name": "Laptop WiFi CX61 2QF 15.6″ 4210M",
+        "cat": "Laptops",
+        "description": "Intel Core i5 processors (13-inch model)\nIntel Iris Graphics 6100 (13-inch model)\nFlash storage\nUp to 10 hours of battery life2 (13-inch model)\nForce Touch trackpad (13-inch model)",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-300x300.png"
+    },
+    {
+        "id": 10,
+        "product_name": "Laptop Screener CX70 2QF-621XPL 17.3″ 4210",
+        "cat": "Laptops",
+        "description": "Intel Core i5 processors (13-inch model)\nIntel Iris Graphics 6100 (13-inch model)\nFlash storage\nUp to 10 hours of battery life2 (13-inch model)\nForce Touch trackpad (13-inch model)",
+        "price": "$2,399.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/applap-300x300.png"
+    },
+    {
+        "id": 11,
+        "product_name": "Laptop R752LJ 17,3” 5200U 4GB 1TB",
+        "cat": "Laptops",
+        "description": "Intel® Core™ i5-5200U, 2,2 GHz\n1 TB HDD, 8 GB RAM\nNVIDIA® GeForce® 920M\nWindows 10 Home (64 Bit)",
+        "price": "$1,100.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+    },
+    {
+        "id": 12,
+        "product_name": "Aerocool EN52377 Dead Silence Gaming Cube Case",
+        "cat": "Computer Cases, Servers",
+        "description": "Super-Silent cube gaming case solidly built with 0.8mm SGCC to block out most of the noise.\nLeathercoated front and top panels with smooth surface finishing\nRemovable top cover for easy access to Motherboard\nCompletely removable ODD+FDD rack for ease of installing water cooling system\nSupports a complete 240mm water cooling system on the top panel",
+        "price": "$150.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/gamecabin-300x300.png"
+    },
+    {
+        "id": 13,
+        "product_name": "Full Color LaserJet Pro M452dn",
+        "cat": "Printers",
+        "description": "Easy management\nFast printing. Strong protection.\nEasy management. Efficient printing.\nThe 2-line LCD display is simple to read and operate.\nStay connected with easy mobile printing options",
+        "price": "$1,050.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/printer-300x300.png"
+    },
+    {
+        "id": 14,
+        "product_name": "White NX Mini F1 SMART NX",
+        "cat": "Cameras",
+        "description": "Ultra Slim & Stylish\nPerfect for Selfies\nCapture & Share on the Go\nOutstanding Optics",
+        "price": "$559.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/camera2-300x300.png"
+    },
+    {
+        "id": 15,
+        "product_name": "Smartphone 6S 32GB LTE",
+        "cat": "Smartphones",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front Camera",
+        "price": "$1,100.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png"
+    },
+    {
+        "id": 16,
+        "product_name": "Powerbank 1130 mAh Blue",
+        "cat": "Power Banks",
+        "description": "11300 mAh\nLED Indicator\n5V\n2.0A Output",
+        "price": "$200.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/powerbank-300x300.png"
+    },
+    {
+        "id": 17,
+        "product_name": "Smartwatch 2.0 LTE Wifi Waterproof",
+        "cat": "Smartwatches",
+        "description": "Water protected, dust and scratch-resistant\nEasy calling\nOne-touch SmartWatch\nNew software update\nAnywhere. Any weather",
+        "price": "$700.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/watch-300x300.png"
+    },
+    {
+        "id": 18,
+        "product_name": "Smart Camera 6200U with 500GB SDcard",
+        "cat": "Cameras",
+        "description": "35X optical zoom\n16.2 megapixels\n3″ diagonal TFT LCD display\nFace detection\nTTL auto focus system with five modes",
+        "price": "$2,999.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/cam4k-300x300.png"
+    },
+    {
+        "id": 19,
+        "product_name": "Wireless Charger 2040 White",
+        "cat": "Chargers",
+        "description": "Wireless Fast Charge feature available for even faster charging speeds on select models\nPortable, attractive design for use in multiple locations\nMulti-colored LED halo indicates charging status",
+        "price": "$248.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/whirelesscar-300x300.png"
+    },
+    {
+        "id": 20,
+        "product_name": "Ultrabook UX305CA-FC050T",
+        "cat": "Smartphones",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front Camera",
+        "price": "$1,200.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/redmi-300x300.png"
+    },
+    {
+        "id": 21,
+        "product_name": "Smartphone 6S 32GB LTE",
+        "cat": "Smartphones",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front Camera",
+        "price": "$780.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/lgphone-300x300.png"
+    },
+    {
+        "id": 22,
+        "product_name": "Universal Headphones Case in Black",
+        "cat": "Headphone Cases",
+        "description": "Brand new and high quality\nMade of supreme quality, durable EVA crush resistant, anti-shock material.\nSoft inner cloth lining, one mesh pocket inside.\nCompact and functional hard case keeps items safe and extremely portable.\nForce Touch trackpad (13-inch model)",
+        "price": "$159.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/headphonecase-300x300.png"
+    },
+    {
+        "id": 23,
+        "product_name": "Headphones USB Wires",
+        "cat": "Headphone Accessories",
+        "description": "High-fidelity stereo music and clear speech\n100% Stable and Comfortable when exercising, running and other outdoor sports\nUp to 6 hours music play\n7 hours talking time\nForce Touch trackpad (13-inch model)",
+        "price": "$50.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone-300x300.png"
+    },
+    {
+        "id": 24,
+        "product_name": "Ultra Wireless S50 Headphones S50 with Bluetooth",
+        "cat": "Headphones",
+        "description": "4.5 inch HD Touch Screen (1280 x 720)\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front and 28 megapixel CMOS rear camera\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.\nSKU: FW511948218",
+        "price": "$350.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png"
+    },
+    {
+        "id": 25,
+        "product_name": "Wireless Audio System Multiroom 360",
+        "cat": "Audio Speakers",
+        "description": "360 Omnidirectional Sound\nEasy Intuitive Control\nMultiroom App",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png"
+    },
+    {
+        "id": 26,
+        "product_name": "Tablet White EliteBook Revolve 810 G2",
+        "cat": "Laptops",
+        "description": "Screen Size: 11.6″\n Processor Type: Core i5\n Processor Speed: 1.90 GHz\nStandard Memory: 4 GB\n Operating System: Windows 8.1 Pro",
+        "price": "$1,300.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/Ultrabooks-300x300.png"
+    },
+    {
+        "id": 27,
+        "product_name": "Purple Solo 2 Wireless",
+        "cat": "Headphones",
+        "description": "Fine-tuned acoustics for clarity, breadth and balance\nStreamlined design for a custom-fit\n Durable and foldable so you can take them on-the-go\nake calls and control music with RemoteTalk cable",
+        "price": "$248.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/heade1-300x300.png"
+    },
+    {
+        "id": 28,
+        "product_name": "Notebook Widescreen Y700-17 GF790",
+        "cat": "Laptops",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n3GB Ram",
+        "price": "$1,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+    },
+    {
+        "id": 29,
+        "product_name": "Laptop WiFi CX61 2QF 15.6″ 4210M",
+        "cat": "Laptops",
+        "description": "Intel Core i5 processors (13-inch model)\nIntel Iris Graphics 6100 (13-inch model)\nFlash storage\nUp to 10 hours of battery life2 (13-inch model)\nForce Touch trackpad (13-inch model)",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-300x300.png"
+    },
+    {
+        "id": 30,
+        "product_name": "Universal Headphones Case in Black",
+        "cat": "Headphone Cases",
+        "description": "Brand new and high quality\nMade of supreme quality, durable EVA crush resistant, anti-shock material.\nSoft inner cloth lining, one mesh pocket inside.\nCompact and functional hard case keeps items safe and extremely portable.\nForce Touch trackpad (13-inch model)",
+        "price": "$159.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/headphonecase-300x300.png"
+    },
+    {
+        "id": 31,
+        "product_name": "Headphones USB Wires",
+        "cat": "Headphone Accessories",
+        "description": "High-fidelity stereo music and clear speech\n100% Stable and Comfortable when exercising, running and other outdoor sports\nUp to 6 hours music play\n7 hours talking time\nForce Touch trackpad (13-inch model)",
+        "price": "$50.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone-300x300.png"
+    },
+    {
+        "id": 32,
+        "product_name": "Ultra Wireless S50 Headphones S50 with Bluetooth",
+        "cat": "Headphones",
+        "description": "4.5 inch HD Touch Screen (1280 x 720)\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front and 28 megapixel CMOS rear camera\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.\nSKU: FW511948218",
+        "price": "$350.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png"
+    },
+    {
+        "id": 33,
+        "product_name": "Wireless Audio System Multiroom 360",
+        "cat": "Audio Speakers",
+        "description": "360 Omnidirectional Sound\nEasy Intuitive Control\nMultiroom App",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png"
+    },
+    {
+        "id": 34,
+        "product_name": "Tablet White EliteBook Revolve 810 G2",
+        "cat": "Laptops",
+        "description": "Screen Size: 11.6″\n Processor Type: Core i5\n Processor Speed: 1.90 GHz\nStandard Memory: 4 GB\n Operating System: Windows 8.1 Pro",
+        "price": "$1,300.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/Ultrabooks-300x300.png"
+    },
+    {
+        "id": 35,
+        "product_name": "Purple Solo 2 Wireless",
+        "cat": "Headphones",
+        "description": "Fine-tuned acoustics for clarity, breadth and balance\nStreamlined design for a custom-fit\n Durable and foldable so you can take them on-the-go\nake calls and control music with RemoteTalk cable",
+        "price": "$248.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/heade1-300x300.png"
+    },
+    {
+        "id": 36,
+        "product_name": "Aerocool EN52377 Dead Silence Gaming Cube Case",
+        "cat": "Computer Cases, Servers",
+        "description": "Super-Silent cube gaming case solidly built with 0.8mm SGCC to block out most of the noise.\nLeathercoated front and top panels with smooth surface finishing\nRemovable top cover for easy access to Motherboard\nCompletely removable ODD+FDD rack for ease of installing water cooling system\nSupports a complete 240mm water cooling system on the top panel",
+        "price": "$150.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/gamecabin-300x300.png"
+    },
+    {
+        "id": 37,
+        "product_name": "Smartphone 6S 32GB LTE",
+        "cat": "Smartphones",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front Camera",
+        "price": "$1,100.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png"
+    },
+    {
+        "id": 38,
+        "product_name": "Powerbank 1130 mAh Blue",
+        "cat": "Power Banks",
+        "description": "11300 mAh\nLED Indicator\n5V\n2.0A Output",
+        "price": "$200.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/powerbank-300x300.png"
+    },
+    {
+        "id": 39,
+        "product_name": "Smartwatch 2.0 LTE Wifi Waterproof",
+        "cat": "Smartwatches",
+        "description": "Water protected, dust and scratch-resistant\nEasy calling\nOne-touch SmartWatch\nNew software update\nAnywhere. Any weather",
+        "price": "$700.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/watch-300x300.png"
+    },
+    {
+        "id": 40,
+        "product_name": "Ultrabook UX305CA-FC050T",
+        "cat": "Smartphones",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front Camera",
+        "price": "$1,200.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/redmi-300x300.png"
+    },
+    {
+        "id": 41,
+        "product_name": "Tablet Red EliteBook Revolve 810 G2",
+        "cat": "Laptops, Ultrabooks",
+        "description": "Intel Core i5 processors (13-inch model)\nIntel Iris Graphics 6100 (13-inch model)\nFlash storage\nUp to 10 hours of battery life2 (13-inch model)\nForce Touch trackpad (13-inch model)",
+        "price": "$2,100.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png"
+    },
+    {
+        "id": 42,
+        "product_name": "Universal Headphones Case in Black",
+        "cat": "Headphone Cases",
+        "description": "Brand new and high quality\nMade of supreme quality, durable EVA crush resistant, anti-shock material.\nSoft inner cloth lining, one mesh pocket inside.\nCompact and functional hard case keeps items safe and extremely portable.\nForce Touch trackpad (13-inch model)",
+        "price": "$159.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/headphonecase-300x300.png"
+    },
+    {
+        "id": 43,
+        "product_name": "Headphones USB Wires",
+        "cat": "Headphone Accessories",
+        "description": "High-fidelity stereo music and clear speech\n100% Stable and Comfortable when exercising, running and other outdoor sports\nUp to 6 hours music play\n7 hours talking time\nForce Touch trackpad (13-inch model)",
+        "price": "$50.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone-300x300.png"
+    },
+    {
+        "id": 44,
+        "product_name": "Ultra Wireless S50 Headphones S50 with Bluetooth",
+        "cat": "Headphones",
+        "description": "4.5 inch HD Touch Screen (1280 x 720)\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n20 MP front and 28 megapixel CMOS rear camera\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.\nSKU: FW511948218",
+        "price": "$350.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png"
+    },
+    {
+        "id": 45,
+        "product_name": "Wireless Audio System Multiroom 360",
+        "cat": "Audio Speakers",
+        "description": "360 Omnidirectional Sound\nEasy Intuitive Control\nMultiroom App",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png"
+    },
+    {
+        "id": 46,
+        "product_name": "Tablet White EliteBook Revolve 810 G2",
+        "cat": "Laptops",
+        "description": "Screen Size: 11.6″\n Processor Type: Core i5\n Processor Speed: 1.90 GHz\nStandard Memory: 4 GB\n Operating System: Windows 8.1 Pro",
+        "price": "$1,300.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/Ultrabooks-300x300.png"
+    },
+    {
+        "id": 47,
+        "product_name": "Purple Solo 2 Wireless",
+        "cat": "Headphones",
+        "description": "Fine-tuned acoustics for clarity, breadth and balance\nStreamlined design for a custom-fit\n Durable and foldable so you can take them on-the-go\nake calls and control music with RemoteTalk cable",
+        "price": "$248.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/heade1-300x300.png"
+    },
+    {
+        "id": 48,
+        "product_name": "Notebook Widescreen Y700-17 GF790",
+        "cat": "Laptops",
+        "description": "4.5 inch HD Screen\nAndroid 4.4 KitKat OS\n1.4 GHz Quad Core™ Processor\n3GB Ram",
+        "price": "$1,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+    },
+    {
+        "id": 49,
+        "product_name": "Laptop WiFi CX61 2QF 15.6″ 4210M",
+        "cat": "Laptops",
+        "description": "Intel Core i5 processors (13-inch model)\nIntel Iris Graphics 6100 (13-inch model)\nFlash storage\nUp to 10 hours of battery life2 (13-inch model)\nForce Touch trackpad (13-inch model)",
+        "price": "$2,299.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/macpro-300x300.png"
+    },
+    {
+        "id": 50,
+        "product_name": "Laptop Screener CX70 2QF-621XPL 17.3″ 4210",
+        "cat": "Laptops",
+        "description": "Intel Core i5 processors (13-inch model)\nIntel Iris Graphics 6100 (13-inch model)\nFlash storage\nUp to 10 hours of battery life2 (13-inch model)\nForce Touch trackpad (13-inch model)",
+        "price": "$2,399.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/applap-300x300.png"
+    },
+    {
+        "id": 51,
+        "product_name": "Laptop R752LJ 17,3” 5200U 4GB 1TB",
+        "cat": "Laptops",
+        "description": "Intel® Core™ i5-5200U, 2,2 GHz\n1 TB HDD, 8 GB RAM\nNVIDIA® GeForce® 920M\nWindows 10 Home (64 Bit)",
+        "price": "$1,100.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/asuaslap-300x300.png"
+    },
+    {
+        "id": 52,
+        "product_name": "Aerocool EN52377 Dead Silence Gaming Cube Case",
+        "cat": "Computer Cases, Servers",
+        "description": "Super-Silent cube gaming case solidly built with 0.8mm SGCC to block out most of the noise.\nLeathercoated front and top panels with smooth surface finishing\nRemovable top cover for easy access to Motherboard\nCompletely removable ODD+FDD rack for ease of installing water cooling system\nSupports a complete 240mm water cooling system on the top panel",
+        "price": "$150.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/gamecabin-300x300.png"
+    },
+    {
+        "id": 53,
+        "product_name": "Full Color LaserJet Pro M452dn",
+        "cat": "Printers",
+        "description": "Easy management\nFast printing. Strong protection.\nEasy management. Efficient printing.\nThe 2-line LCD display is simple to read and operate.\nStay connected with easy mobile printing options",
+        "price": "$1,050.00",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/printer-300x300.png"
+    }
+]

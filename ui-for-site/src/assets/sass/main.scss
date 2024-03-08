@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "global-rule";
+@import "component-style";
+
+
+
+// **************************************
+// ************** pages *****************
+// **************************************
+/* start product page */
+.product-page {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    .breadcrupm {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .item-box {
+        .row > * {
+            margin-bottom: 15px;
+        }
+        .img {
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center
+        }
+        .data {
+            display: flex;
+            flex-direction: column;
+            text-transform: capitalize;
+            // gap: 5px;
+            .data-name {
+                color: var(--txt-color-9);
+            }
+            ul {
+                list-style: disc;
+                padding-right: 20px;
+                padding-left: 20px;
+                li {
+                    color: var(--txt-color-7);
+                    padding: 3px;
+                }
+            }
+            .data-rate {
+                display: flex;
+                gap: 2px;
+                span {
+                    font-size: 25px;
+                    font-weight: 600;
+                    color: gold
+                }
+            }
+            .data-price {
+                color: var(--txt-color-9);
+                font-weight: 600;
+            }
+            input {
+                width: 50px;
+                margin-bottom: 10px;
+                border-radius: 10px;
+                border: 1px solid var(--txt-color-7);
+                padding: 1px 5px;
+            }
+            .data-cart {
+                background-color: var(--skin-color);
+                color: var(--bg-color-9);
+                border: 1px solid var(--skin-color);
+                border-radius: 10px;
+                max-width: 170px;
+                padding: 5px 10px;
+                text-transform: capitalize;
+                transition: .3s ease-in-out;
+                &:hover {
+                    background-color: var(--txt-color-9);
+                }
+            }
+
+        }
+    }
+}
+/* ================================ End product page */
+/* start home page */
+
+/* ================================ End home page */
+
+
+
+
+@import "responsive-rule";
