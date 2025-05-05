@@ -17,6 +17,7 @@ const departmentRouter = require("./route/control/departmentRouter"); // control
 const itemRouter = require("./route/control/itemRouter"); // control
 const customerRouter = require("./route/control/customerRouter") // control
 const cartRouter = require("./route/control/cartRouter") // control
+const sitesRouter = require("./route/control/sitesRouter") // control
 
 app.use(cors());
 app.use(cookieParser());
@@ -44,6 +45,7 @@ app.use("/department", departmentRouter);
 app.use("/item", itemRouter);
 app.use("/customer", customerRouter);
 app.use("/cart", cartRouter);
+app.use("/sites", sitesRouter);
 
 /* Error handler middleware */
 app.use((err, req, res, next) => {
